@@ -1,4 +1,4 @@
-python3 -m pip install requests
+pip install requests
 
 import requests
 import datetime
